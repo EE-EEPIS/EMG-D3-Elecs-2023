@@ -1,0 +1,1 @@
+Truk listrik pake otot
