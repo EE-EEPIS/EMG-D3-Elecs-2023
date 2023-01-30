@@ -2,8 +2,6 @@
 
 int button1 = 2;
 int button2 = 3;
-char rightKey = KEY_RIGHT_ARROW;
-char leftKey  = KEY_LEFT_ARROW;
 
 char upKey = KEY_UP_ARROW;
 char downKey  = KEY_DOWN_ARROW;
